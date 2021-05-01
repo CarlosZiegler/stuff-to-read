@@ -20,6 +20,7 @@ This is a list of interesting topic that I was researched
 * IntersectionObserver API
 
 1. [https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver](https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver)
+2. [https://css-tricks.com/a-few-functional-uses-for-intersection-observer-to-know-when-an-element-is-in-view/](https://css-tricks.com/a-few-functional-uses-for-intersection-observer-to-know-when-an-element-is-in-view/)
 
 * Chrome90 new dev tools flexbox
 
@@ -36,6 +37,69 @@ This is a list of interesting topic that I was researched
 * Figjam colaborative whiteboard of Figma
 
 1. [https://www.figma.com/figjam/](https://www.figma.com/figjam/)
+
+* Video Calling space for multiple people separate conversations
+
+1. [https://gather.town/](https://gather.town/)
+
+* Typescript Documentation lib
+
+1. [https://github.com/TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
+
+* Unit of Work Typescript example
+
+1. [https://jideowosakin.com/unit-of-work-pattern-in-typescript/](https://jideowosakin.com/unit-of-work-pattern-in-typescript/)
+
+* Generic Repository Pattern
+
+1. [https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e](https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e)
+
+* Cypress component test Runner
+
+1. [https://cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner](https://cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner)
+
+* Temporal - proposal of native date api for javascript
+
+1. [https://tc39.es/proposal-temporal/docs/](https://tc39.es/proposal-temporal/docs/)
+
+* Domain Drive Design \(DDD\) Functional Languages
+
+1. [https://naveennegi.medium.com/thoughts-on-domain-driven-design-in-functional-languages-83c43ec518d](https://naveennegi.medium.com/thoughts-on-domain-driven-design-in-functional-languages-83c43ec518d)
+2. [https://www.youtube.com/watch?v=zhA-2JQ8XKc](https://www.youtube.com/watch?v=zhA-2JQ8XKc)
+
+* Diagnose NodeJs with ClinicJs
+
+1. [https://clinicjs.org/](https://clinicjs.org/)
+
+* React Clean Code article 
+
+1. [https://dev.to/thawkin3/react-clean-code-simple-ways-to-write-better-and-cleaner-code-2loa](https://dev.to/thawkin3/react-clean-code-simple-ways-to-write-better-and-cleaner-code-2loa)
+
+* CI/CD for React Native
+
+1. [https://codemagic.io/start/](https://codemagic.io/start/)
+
+* Top level await - V8
+
+1. [https://v8.dev/features/top-level-await](https://v8.dev/features/top-level-await)
+
+* UI Icons 100% pure css/svg
+
+1. [https://css.gg/](https://css.gg/)
+
+* List of resources for Chief Tech Officers
+
+1. [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
+
+* Simple screenshot software
+
+1. [https://flameshot.org/](https://flameshot.org/)
+
+
+
+
+
+
 
 
 
