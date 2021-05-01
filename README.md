@@ -95,6 +95,10 @@ This is a list of interesting topic that I was researched
 
 1. [https://flameshot.org/](https://flameshot.org/)
 
+| Topic | Link |
+| :--- | :--- |
+| Log Management | [https://logz.io/](https://logz.io/) |
+
 
 
 
