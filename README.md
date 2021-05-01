@@ -1,4 +1,4 @@
-# Initial page
+# Resources
 
 ## List of topics
 
