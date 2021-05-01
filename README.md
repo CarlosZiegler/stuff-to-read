@@ -95,9 +95,39 @@ This is a list of interesting topic that I was researched
 
 1. [https://flameshot.org/](https://flameshot.org/)
 
-| Topic | Link |
-| :--- | :--- |
-| Log Management | [https://logz.io/](https://logz.io/) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Topic</th>
+      <th style="text-align:left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Log Management</td>
+      <td style="text-align:left"><a href="https://logz.io/">https://logz.io/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Node Js Multi-thread with <b>worker_threads</b>
+          </li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ol>
+          <li><a href="https://wanago.io/2019/05/06/node-js-typescript-12-worker-threads/">https://wanago.io/2019/05/06/node-js-typescript-12-worker-threads/</a>
+          </li>
+          <li><a href="https://medium.com/@Trott/using-worker-threads-in-node-js-part-2-a9405c72a6f0">https://medium.com/@Trott/using-worker-threads-in-node-js-part-2-a9405c72a6f0</a>
+          </li>
+        </ol>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
