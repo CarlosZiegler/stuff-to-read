@@ -212,12 +212,22 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Documentation</td>
+      <td style="text-align:left">
+        <p><a href="https://docusaurus.io/">https://docusaurus.io/</a>
+        </p>
+        <p><a href="https://github.com/Redocly/redoc">https://github.com/Redocly/redoc</a>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Hook to get frequent data React</td>
+      <td style="text-align:left"><a href="https://zach.codes/throttle-frequent-data-in-react/">https://zach.codes/throttle-frequent-data-in-react/</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
