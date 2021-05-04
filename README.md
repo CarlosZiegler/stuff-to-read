@@ -230,8 +230,13 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Tests E2E</td>
+      <td style="text-align:left">
+        <p><a href="https://playwright.dev/">https://playwright.dev/</a>
+        </p>
+        <p><a href="https://www.cypress.io/">https://www.cypress.io/</a>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
