@@ -239,20 +239,30 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Autocomplete</td>
+      <td style="text-align:left"><a href="https://github.com/algolia/autocomplete">https://github.com/algolia/autocomplete</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Test Mock</td>
+      <td style="text-align:left">
+        <p><a href="https://mswjs.io/">https://mswjs.io/</a>
+        </p>
+        <p><a href="https://www.npmjs.com/package/json-server">https://www.npmjs.com/package/json-server</a>
+        </p>
+        <p><a href="https://github.com/ctimmerm/axios-mock-adapter">https://github.com/ctimmerm/axios-mock-adapter</a>
+        </p>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Documentation</td>
+      <td style="text-align:left"><a href="https://nextra.vercel.app/">https://nextra.vercel.app/</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">AWS Curse</td>
+      <td style="text-align:left"><a href="https://www.aws.training/Details/Curriculum?id=45358">https://www.aws.training/Details/Curriculum?id=45358</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
