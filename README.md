@@ -270,12 +270,14 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Animations Javascrippt</td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/posts/iuricode_sites-de-anima%C3%A7%C3%B5es-javascript-activity-6796074025463492608-R9Jk">https://www.linkedin.com/posts/iuricode_sites-de-anima%C3%A7%C3%B5es-javascript-activity-6796074025463492608-R9Jk</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Dark Mode with filters</td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/posts/slobodan-gajic_shorts-csstips-frontend-activity-6795970023723724800-sXT9">https://www.linkedin.com/posts/slobodan-gajic_shorts-csstips-frontend-activity-6795970023723724800-sXT9</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
