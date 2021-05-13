@@ -221,10 +221,6 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
       <td style="text-align:left">Hook to get frequent data React</td>
       <td style="text-align:left"><a href="https://zach.codes/throttle-frequent-data-in-react/">https://zach.codes/throttle-frequent-data-in-react/</a>
       </td>
@@ -285,12 +281,14 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Code Verification Sandbox</td>
+      <td style="text-align:left"><a href="https://codesandbox.io/embed/verification-code-input-zjxvo?codemirror=1">https://codesandbox.io/embed/verification-code-input-zjxvo?codemirror=1</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Code Verification Tutorial</td>
+      <td style="text-align:left"><a href="https://codedaily.io/tutorials/Create-a-Segmented-Auto-Moving-SMS-Code-Verification-Input-in-React">https://codedaily.io/tutorials/Create-a-Segmented-Auto-Moving-SMS-Code-Verification-Input-in-React</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
