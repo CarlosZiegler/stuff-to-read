@@ -221,6 +221,10 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Hook to get frequent data React</td>
       <td style="text-align:left"><a href="https://zach.codes/throttle-frequent-data-in-react/">https://zach.codes/throttle-frequent-data-in-react/</a>
       </td>
@@ -277,17 +281,24 @@ This is a list of interesting topic that I was researched
     </tr>
     <tr>
       <td style="text-align:left">Pakacge import costs</td>
-      <td style="text-align:left"><a href="https://bundlephobia.com/">https://bundlephobia.com/</a>
+      <td style="text-align:left"><a href="https://bundlephobia.com/">https://bundlephobia.com</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Code Verification Sandbox</td>
-      <td style="text-align:left"><a href="https://codesandbox.io/embed/verification-code-input-zjxvo?codemirror=1">https://codesandbox.io/embed/verification-code-input-zjxvo?codemirror=1</a>
+      <td style="text-align:left">design</td>
+      <td style="text-align:left">
+        <p><a href="https://mobbin.design/">https://mobbin.design/</a>
+        </p>
+        <p><a href="https://screenlane.com/?ref=uimovement">https://screenlane.com/?ref=uimovement</a>
+        </p>
+        <p><a href="https://dribbble.com/">https://dribbble.com/</a>
+        </p>
+        <p></p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Code Verification Tutorial</td>
-      <td style="text-align:left"><a href="https://codedaily.io/tutorials/Create-a-Segmented-Auto-Moving-SMS-Code-Verification-Input-in-React">https://codedaily.io/tutorials/Create-a-Segmented-Auto-Moving-SMS-Code-Verification-Input-in-React</a>
+      <td style="text-align:left">Flows</td>
+      <td style="text-align:left"><a href="https://pageflows.com/?ref=screenlane">https://pageflows.com/?ref=screenlane</a>
       </td>
     </tr>
     <tr>
