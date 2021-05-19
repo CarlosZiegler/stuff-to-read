@@ -310,6 +310,43 @@ This is a list of interesting topic that I was researched
       <td style="text-align:left">Alternative of Firebase</td>
       <td style="text-align:left">Supabase</td>
     </tr>
+    <tr>
+      <td style="text-align:left">One time Code HTML</td>
+      <td style="text-align:left"><a href="https://www.creativejuiz.fr/blog/en/tutorials/one-time-code-input-sms-code-keyboard-suggestion-ios-android">https://www.creativejuiz.fr/blog/en/tutorials/one-time-code-input-sms-code-keyboard-suggestion-ios-android</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 
