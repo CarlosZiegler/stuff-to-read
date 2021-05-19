@@ -302,8 +302,13 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Database for Dev</td>
+      <td style="text-align:left"><a href="https://www.planetscale.com/">https://www.planetscale.com/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Alternative of Firebase</td>
+      <td style="text-align:left">Supabase</td>
     </tr>
   </tbody>
 </table>
