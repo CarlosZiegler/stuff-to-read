@@ -316,8 +316,9 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Hook user Online Status</td>
+      <td style="text-align:left"><a href="https://levelup.gitconnected.com/useonlinestatus-a-react-hook-to-know-when-your-app-is-offline-2d06e4e536a">https://levelup.gitconnected.com/useonlinestatus-a-react-hook-to-know-when-your-app-is-offline-2d06e4e536a</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
