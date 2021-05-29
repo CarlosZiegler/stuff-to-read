@@ -321,8 +321,9 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">js help functions</td>
+      <td style="text-align:left"><a href="https://vanillajstoolkit.com/helpers/">https://vanillajstoolkit.com/helpers/</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
