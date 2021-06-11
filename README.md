@@ -326,8 +326,9 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Merge Request good practices</td>
+      <td style="text-align:left"><a href="https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067">https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
