@@ -336,8 +336,9 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Erros comuns com react library testing</td>
+      <td style="text-align:left"><a href="https://giovanisleite.dev/erros-comuns-com-react-testing-library">https://giovanisleite.dev/erros-comuns-com-react-testing-library</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
