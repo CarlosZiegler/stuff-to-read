@@ -331,8 +331,9 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">CSS generators</td>
+      <td style="text-align:left"><a href="https://markodenic.com/css-generators/">https://markodenic.com/css-generators/</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
