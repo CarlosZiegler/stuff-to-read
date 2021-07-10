@@ -370,8 +370,9 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Github guides</td>
+      <td style="text-align:left"><a href="https://guides.github.com/">https://guides.github.com/</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
