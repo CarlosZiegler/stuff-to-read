@@ -351,6 +351,81 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Prisma and tests</td>
+      <td style="text-align:left"><a href="https://dev.to/eddeee888/how-to-write-tests-for-prisma-with-docker-and-jest-593i">https://dev.to/eddeee888/how-to-write-tests-for-prisma-with-docker-and-jest-593i</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Javascript concepts</td>
+      <td style="text-align:left"><a href="https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/">https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Javascript hight order functions</td>
+      <td style="text-align:left">
+        <p><a href="https://www.youtube.com/watch?v=DlFOe-E1m-8">https://www.youtube.com/watch?v=DlFOe-E1m-8</a>
+        </p>
+        <p><a href="https://www.youtube.com/watch?v=H4awPsyugS0">https://www.youtube.com/watch?v=H4awPsyugS0</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
