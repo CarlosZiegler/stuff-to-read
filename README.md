@@ -375,12 +375,14 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Testes API Rest Videos</td>
+      <td style="text-align:left"><a href="https://www.youtube.com/watch?app=desktop&amp;v=VqVQ7vHY32o&amp;list=PLf8x7B3nFTl17WeEVj405tHlstiq1kNBX&amp;index=1">https://www.youtube.com/watch?app=desktop&amp;v=VqVQ7vHY32o&amp;list=PLf8x7B3nFTl17WeEVj405tHlstiq1kNBX&amp;index=1</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Site to learning some things</td>
+      <td style="text-align:left"><a href="https://egghead.io/">https://egghead.io/</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>

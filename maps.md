@@ -92,20 +92,24 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Brasileiro Mapbox</td>
+      <td style="text-align:left"><a href="https://www.youtube.com/watch?v=kpbCTi6cVrM">https://www.youtube.com/watch?v=kpbCTi6cVrM</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Mapas Interativos</td>
+      <td style="text-align:left"><a href="https://opengislab.com/">https://opengislab.com/</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">3d Geospatial CesiumJs</td>
+      <td style="text-align:left"><a href="https://cesium.com/platform/cesiumjs/">https://cesium.com/platform/cesiumjs/</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">mapbox 3d docs</td>
+      <td style="text-align:left"><a href="https://docs.mapbox.com/mapbox-gl-js/example/3d-buildings/">https://docs.mapbox.com/mapbox-gl-js/example/3d-buildings/</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
