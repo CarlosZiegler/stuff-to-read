@@ -385,28 +385,69 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Google Cloud Run</td>
+      <td style="text-align:left"><a href="https://www.qwiklabs.com/focuses/5162?locale=pt_BR&amp;parent=catalog">https://www.qwiklabs.com/focuses/5162?locale=pt_BR&amp;parent=catalog</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Meetup GCP</td>
+      <td style="text-align:left"><a href="https://gdg.community.dev/events/details/google-gdg-cuiaba-presents-meetup-containers-no-google-cloud-run-e-web-scrapping-com-puppeteer/">https://gdg.community.dev/events/details/google-gdg-cuiaba-presents-meetup-containers-no-google-cloud-run-e-web-scrapping-com-puppeteer/</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">GCP Servidor de PDF</td>
+      <td style="text-align:left"><a href="https://www.qwiklabs.com/focuses/8390?locale=pt_BR&amp;parent=catalog">https://www.qwiklabs.com/focuses/8390?locale=pt_BR&amp;parent=catalog</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">React Snippets + explanations</td>
+      <td style="text-align:left"><a href="https://simonhoiberg.com/ebooks/65-code-snippets-with-explanations">https://simonhoiberg.com/ebooks/65-code-snippets-with-explanations</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">React Best Practices</td>
+      <td style="text-align:left"><a href="https://alexkondov.com/tao-of-react/">https://alexkondov.com/tao-of-react/</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Use Memo vs Use Callback</td>
+      <td style="text-align:left"><a href="https://kentcdodds.com/blog/usememo-and-usecallback">https://kentcdodds.com/blog/usememo-and-usecallback</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">css to js</td>
+      <td style="text-align:left"><a href="https://css2js.dotenv.dev/">https://css2js.dotenv.dev/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">keycode info</td>
+      <td style="text-align:left"><a href="https://keycode.info/">https://keycode.info/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Size View Port</td>
+      <td style="text-align:left"><a href="https://screensizemap.com/">https://screensizemap.com/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Git Kraken</td>
+      <td style="text-align:left"><a href="https://www.gitkraken.com/">https://www.gitkraken.com/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Js Match Media</td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6836909477221023744/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6836909477221023744%29">https://www.linkedin.com/feed/update/urn:li:activity:6836909477221023744/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6836909477221023744%29</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">VS Code Comandos</td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/pulse/comandos-vs-code-para-agilizar-o-desenvolvimento-dellean-santos/?trackingId=VsW5ZqtTTp2CCiGQmtNVDQ%3D%3D">https://www.linkedin.com/pulse/comandos-vs-code-para-agilizar-o-desenvolvimento-dellean-santos/?trackingId=VsW5ZqtTTp2CCiGQmtNVDQ%3D%3D</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Microservies and Architecture</td>
+      <td style="text-align:left"><a href="https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2">https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
