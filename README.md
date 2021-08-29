@@ -450,28 +450,74 @@ This is a list of interesting topic that I was researched
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">State em React</td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/pulse/state-em-reactjs-o-guia-definitivo-vinicius-dacal-lopes/?trackingId=Vi0rYM72TsqKbGLWafko3A%3D%3D">https://www.linkedin.com/pulse/state-em-reactjs-o-guia-definitivo-vinicius-dacal-lopes/?trackingId=Vi0rYM72TsqKbGLWafko3A%3D%3D</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Ports and Adapters</td>
+      <td style="text-align:left"><a href="https://chriskiehl.com/article/how-to-teach-ports-and-adapters">https://chriskiehl.com/article/how-to-teach-ports-and-adapters</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">React useHooks</td>
+      <td style="text-align:left"><a href="https://usehooks.com/">https://usehooks.com/</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Testing Next Pages</td>
+      <td style="text-align:left"><a href="https://dev.to/maciekgrzybek/testing-next-js-pages-1jai">https://dev.to/maciekgrzybek/testing-next-js-pages-1jai</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">SQL Cheatshet</td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6830797312684523520/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6830797312684523520%29">https://www.linkedin.com/feed/update/urn:li:activity:6830797312684523520/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6830797312684523520%29</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Generator Background</td>
+      <td style="text-align:left"><a href="https://wickedbackgrounds.com/">https://wickedbackgrounds.com/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Inline Editor JS</td>
+      <td style="text-align:left"><a href="https://felixg.io/products/inline">https://felixg.io/products/inline</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Generate form</td>
+      <td style="text-align:left"><a href="https://trianglify.io/">https://trianglify.io/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">UI Patterns</td>
+      <td style="text-align:left"><a href="https://designvault.io/">https://designvault.io/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Referencia de Design</td>
+      <td style="text-align:left"><a href="https://designvault.io/">https://designvault.io/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Boxicons</td>
+      <td style="text-align:left"><a href="https://boxicons.com/">https://boxicons.com/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ilustrations</td>
+      <td style="text-align:left"><a href="https://www.pixeltrue.com/packs">https://www.pixeltrue.com/packs</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">React Query State Management</td>
+      <td style="text-align:left"><a href="https://tkdodo.eu/blog/react-query-as-a-state-manager/?">https://tkdodo.eu/blog/react-query-as-a-state-manager/?</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">VS Code Debug</td>
+      <td style="text-align:left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6828356909691650048/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6828356909691650048%29">https://www.linkedin.com/feed/update/urn:li:activity:6828356909691650048/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6828356909691650048%29</a>
+      </td>
     </tr>
   </tbody>
 </table>
