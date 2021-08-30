@@ -152,40 +152,59 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Autocad Mapbox</td>
+      <td style="text-align:left"><a href="https://stackoverflow.com/questions/63488426/add-a-3d-model-what-types-of-file-are-supported-and-where-to-host-the-3d-file">https://stackoverflow.com/questions/63488426/add-a-3d-model-what-types-of-file-are-supported-and-where-to-host-the-3d-file</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Map 3d Model</td>
+      <td style="text-align:left"><a href="https://stackoverflow.com/questions/63488426/add-a-3d-model-what-types-of-file-are-supported-and-where-to-host-the-3d-file">https://stackoverflow.com/questions/63488426/add-a-3d-model-what-types-of-file-are-supported-and-where-to-host-the-3d-file</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">map visualization</td>
+      <td style="text-align:left"><a href="https://codepen.io/ro-ka/pen/ENoOjz/">https://codepen.io/ro-ka/pen/ENoOjz/</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Article Map VIsualization</td>
+      <td style="text-align:left"><a href="https://robert.katzki.de/posts/3d-map-visualizations-with-mapbox-gl-js">https://robert.katzki.de/posts/3d-map-visualizations-with-mapbox-gl-js</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">deck-gl-integrated-with-mapbox</td>
+      <td style="text-align:left"><a href="https://stackoverflow.com/questions/65682896/how-to-add-i3sloader-3dtile-layer-deck-gl-integrated-with-mapbox">https://stackoverflow.com/questions/65682896/how-to-add-i3sloader-3dtile-layer-deck-gl-integrated-with-mapbox</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Mapbox gltf, DXF, DWG</td>
+      <td style="text-align:left"><a href="https://docs.mapbox.com/mapbox-gl-js/example/add-3d-model/">https://docs.mapbox.com/mapbox-gl-js/example/add-3d-model/</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Real State</td>
+      <td style="text-align:left"><a href="https://www.mapbox.com/industries/real-estate">https://www.mapbox.com/industries/real-estate</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Real State JS</td>
+      <td style="text-align:left"><a href="https://www.youtube.com/watch?v=juv8IOLLNnQ">https://www.youtube.com/watch?v=juv8IOLLNnQ</a>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Mapbox real state</td>
+      <td style="text-align:left"><a href="https://vimeo.com/113416059">https://vimeo.com/113416059</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Mapbox tiling service</td>
+      <td style="text-align:left"><a href="https://docs.mapbox.com/mapbox-tiling-service/guides/">https://docs.mapbox.com/mapbox-tiling-service/guides/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Mapbox Investor</td>
+      <td style="text-align:left"><a href="https://austinhale.medium.com/realeflow-mapbox-geospatial-polygon-visualizations-for-real-estate-investors-7bbb0aacdeec">https://austinhale.medium.com/realeflow-mapbox-geospatial-polygon-visualizations-for-real-estate-investors-7bbb0aacdeec</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
