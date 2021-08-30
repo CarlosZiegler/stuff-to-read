@@ -117,6 +117,69 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">MapBox Design Guide</td>
+      <td style="text-align:left"><a href="https://go.mapbox.com/rs/117-NXK-490/images/the-guide-to-map-design.pdf">https://go.mapbox.com/rs/117-NXK-490/images/the-guide-to-map-design.pdf</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Earth2 Map 3d</td>
+      <td style="text-align:left"><a href="https://www.mapbox.com/blog/earth-2-a-futuristic-metaverse-launches-holobuildings">https://www.mapbox.com/blog/earth-2-a-futuristic-metaverse-launches-holobuildings</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Developer Network Mapbox</td>
+      <td style="text-align:left"><a href="https://www.mapbox.com/join-developer-network">https://www.mapbox.com/join-developer-network</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Mapbox 3d Issues</td>
+      <td style="text-align:left"><a href="https://github.com/mapbox/mapbox-gl-js/issues/10950">https://github.com/mapbox/mapbox-gl-js/issues/10950</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Workshops mapbox</td>
+      <td style="text-align:left"><a href="http://mapbox.github.io/workshops/">http://mapbox.github.io/workshops/</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Mapbox Framer</td>
+      <td style="text-align:left"><a href="https://blog.framer.com/prototyping-maps-with-framer-and-mapbox-207512463e9a">https://blog.framer.com/prototyping-maps-with-framer-and-mapbox-207512463e9a</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Map 3d from gwd</td>
+      <td style="text-align:left"><a href="https://stackoverflow.com/questions/67430794/why-cant-i-load-3d-models-with-mapbox-gl-js-and-threebox-with-this-angular-code">https://stackoverflow.com/questions/67430794/why-cant-i-load-3d-models-with-mapbox-gl-js-and-threebox-with-this-angular-code</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
