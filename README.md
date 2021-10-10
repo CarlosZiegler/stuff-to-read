@@ -2,7 +2,7 @@
 
 ## List of topics
 
-This is a list of interesting topic that I was researched 
+This is a list of interesting topic that I was researched.
 
 <table>
   <thead>
@@ -521,12 +521,3 @@ This is a list of interesting topic that I was researched
     </tr>
   </tbody>
 </table>
-
-
-
-
-
-
-
-
-
