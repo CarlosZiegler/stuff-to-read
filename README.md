@@ -1,528 +1,126 @@
 # Resources
 
+##
+
 ## List of topics
 
-This is a list of interesting topic that I was researched 
+This is a list of interesting topic that I was researched&#x20;
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Subject</th>
-      <th style="text-align:left">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Log Management</td>
-      <td style="text-align:left"><a href="https://logz.io/">https://logz.io/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Node Js Multi-thread with <b>worker_threads</b>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <p><a href="https://wanago.io/2019/05/06/node-js-typescript-12-worker-threads/">https://wanago.io/2019/05/06/node-js-typescript-12-worker-threads/</a>
-        </p>
-        <p><a href="https://medium.com/@Trott/using-worker-threads-in-node-js-part-2-a9405c72a6f0">https://medium.com/@Trott/using-worker-threads-in-node-js-part-2-a9405c72a6f0</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>IOS notifications for PWAs and Web apps</p>
-      </td>
-      <td style="text-align:left"><a href="https://github.com/kosmigramma/appleshouter">https://github.com/kosmigramma/appleshouter</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Make Jest faster</p>
-      </td>
-      <td style="text-align:left"><a href="https://ivantanev.com/make-jest-faster/">https://ivantanev.com/make-jest-faster/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>IntersectionObserver API</p>
-      </td>
-      <td style="text-align:left">
-        <p><a href="https://css-tricks.com/a-few-functional-uses-for-intersection-observer-to-know-when-an-element-is-in-view/">https://css-tricks.com/a-few-functional-uses-for-intersection-observer-to-know-when-an-element-is-in-view/</a>
-        </p>
-        <p><a href="https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver">https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Chrome90 new dev tools flexbox</p>
-      </td>
-      <td style="text-align:left"><a href="https://developer.chrome.com/blog/new-in-devtools-90/#flexbox">https://developer.chrome.com/blog/new-in-devtools-90/#flexbox</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Plattaform for get feedback/ insight of product</p>
-      </td>
-      <td style="text-align:left"><a href="https://maze.co/">https://maze.co/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Sequelize hooks</p>
-      </td>
-      <td style="text-align:left"><a href="https://sequelize.org/master/manual/hooks.html">https://sequelize.org/master/manual/hooks.html</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Figjam colaborative whiteboard of Figma</p>
-      </td>
-      <td style="text-align:left"><a href="https://www.figma.com/figjam/">https://www.figma.com/figjam/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Video Calling space for multiple people separate conversations</p>
-      </td>
-      <td style="text-align:left"><a href="https://gather.town/">https://gather.town/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Typescript Documentation lib</p>
-      </td>
-      <td style="text-align:left"><a href="https://github.com/TypeStrong/typedoc">https://github.com/TypeStrong/typedoc</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Unit of Work Typescript example</p>
-      </td>
-      <td style="text-align:left"><a href="https://jideowosakin.com/unit-of-work-pattern-in-typescript/">https://jideowosakin.com/unit-of-work-pattern-in-typescript/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Generic Repository Pattern</p>
-      </td>
-      <td style="text-align:left"><a href="https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e">https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Cypress component test Runner</p>
-      </td>
-      <td style="text-align:left"><a href="https://cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner">https://cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Temporal - proposal of native date api for javascript</p>
-        <p></p>
-      </td>
-      <td style="text-align:left"><a href="https://tc39.es/proposal-temporal/docs/">https://tc39.es/proposal-temporal/docs/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Domain Drive Design (DDD) Functional Languages</p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <p><a href="https://naveennegi.medium.com/thoughts-on-domain-driven-design-in-functional-languages-83c43ec518d">https://naveennegi.medium.com/thoughts-on-domain-driven-design-in-functional-languages-83c43ec518d</a>
-          <br
-          />
-        </p>
-        <p><a href="https://www.youtube.com/watch?v=zhA-2JQ8XKc">https://www.youtube.com/watch?v=zhA-2JQ8XKc</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Diagnose NodeJs with ClinicJs</p>
-      </td>
-      <td style="text-align:left"><a href="https://clinicjs.org/">https://clinicjs.org/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>React Clean Code article</p>
-      </td>
-      <td style="text-align:left"><a href="https://dev.to/thawkin3/react-clean-code-simple-ways-to-write-better-and-cleaner-code-2loa">https://dev.to/thawkin3/react-clean-code-simple-ways-to-write-better-and-cleaner-code-2loa</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>CI/CD for React Native</p>
-      </td>
-      <td style="text-align:left"><a href="https://codemagic.io/start/">https://codemagic.io/start/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Top level await - V8</p>
-      </td>
-      <td style="text-align:left"><a href="https://v8.dev/features/top-level-await">https://v8.dev/features/top-level-await</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>UI Icons 100% pure css/svg</p>
-      </td>
-      <td style="text-align:left"><a href="https://css.gg/">https://css.gg/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>List of resources for Chief Tech Officers</p>
-      </td>
-      <td style="text-align:left"><a href="https://github.com/kuchin/awesome-cto">https://github.com/kuchin/awesome-cto</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>Simple screenshot software</p>
-      </td>
-      <td style="text-align:left"><a href="https://flameshot.org/">https://flameshot.org/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Documentation</td>
-      <td style="text-align:left">
-        <p><a href="https://docusaurus.io/">https://docusaurus.io/</a>
-        </p>
-        <p><a href="https://github.com/Redocly/redoc">https://github.com/Redocly/redoc</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Hook to get frequent data React</td>
-      <td style="text-align:left"><a href="https://zach.codes/throttle-frequent-data-in-react/">https://zach.codes/throttle-frequent-data-in-react/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Tests E2E</td>
-      <td style="text-align:left">
-        <p><a href="https://playwright.dev/">https://playwright.dev/</a>
-        </p>
-        <p><a href="https://www.cypress.io/">https://www.cypress.io/</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Autocomplete</td>
-      <td style="text-align:left"><a href="https://github.com/algolia/autocomplete">https://github.com/algolia/autocomplete</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Test Mock</td>
-      <td style="text-align:left">
-        <p><a href="https://mswjs.io/">https://mswjs.io/</a>
-        </p>
-        <p><a href="https://www.npmjs.com/package/json-server">https://www.npmjs.com/package/json-server</a>
-        </p>
-        <p><a href="https://github.com/ctimmerm/axios-mock-adapter">https://github.com/ctimmerm/axios-mock-adapter</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Documentation</td>
-      <td style="text-align:left"><a href="https://nextra.vercel.app/">https://nextra.vercel.app/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">AWS Curse</td>
-      <td style="text-align:left"><a href="https://www.aws.training/Details/Curriculum?id=45358">https://www.aws.training/Details/Curriculum?id=45358</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">React Testing Playground</td>
-      <td style="text-align:left"><a href="https://testing-playground.com/">https://testing-playground.com/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Animations Javascrippt</td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/posts/iuricode_sites-de-anima%C3%A7%C3%B5es-javascript-activity-6796074025463492608-R9Jk">https://www.linkedin.com/posts/iuricode_sites-de-anima%C3%A7%C3%B5es-javascript-activity-6796074025463492608-R9Jk</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Dark Mode with filters</td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/posts/slobodan-gajic_shorts-csstips-frontend-activity-6795970023723724800-sXT9">https://www.linkedin.com/posts/slobodan-gajic_shorts-csstips-frontend-activity-6795970023723724800-sXT9</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Pakacge import costs</td>
-      <td style="text-align:left"><a href="https://bundlephobia.com/">https://bundlephobia.com</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">design</td>
-      <td style="text-align:left">
-        <p><a href="https://mobbin.design/">https://mobbin.design/</a>
-        </p>
-        <p><a href="https://screenlane.com/?ref=uimovement">https://screenlane.com/?ref=uimovement</a>
-        </p>
-        <p><a href="https://dribbble.com/">https://dribbble.com/</a>
-        </p>
-        <p></p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Flows</td>
-      <td style="text-align:left"><a href="https://pageflows.com/?ref=screenlane">https://pageflows.com/?ref=screenlane</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Database for Dev</td>
-      <td style="text-align:left"><a href="https://www.planetscale.com/">https://www.planetscale.com/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Alternative of Firebase</td>
-      <td style="text-align:left">Supabase</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">One time Code HTML</td>
-      <td style="text-align:left"><a href="https://www.creativejuiz.fr/blog/en/tutorials/one-time-code-input-sms-code-keyboard-suggestion-ios-android">https://www.creativejuiz.fr/blog/en/tutorials/one-time-code-input-sms-code-keyboard-suggestion-ios-android</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Hook user Online Status</td>
-      <td style="text-align:left"><a href="https://levelup.gitconnected.com/useonlinestatus-a-react-hook-to-know-when-your-app-is-offline-2d06e4e536a">https://levelup.gitconnected.com/useonlinestatus-a-react-hook-to-know-when-your-app-is-offline-2d06e4e536a</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">js help functions</td>
-      <td style="text-align:left"><a href="https://vanillajstoolkit.com/helpers/">https://vanillajstoolkit.com/helpers/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Merge Request good practices</td>
-      <td style="text-align:left"><a href="https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067">https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">CSS generators</td>
-      <td style="text-align:left"><a href="https://markodenic.com/css-generators/">https://markodenic.com/css-generators/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Erros comuns com react library testing</td>
-      <td style="text-align:left"><a href="https://giovanisleite.dev/erros-comuns-com-react-testing-library">https://giovanisleite.dev/erros-comuns-com-react-testing-library</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Patterns</td>
-      <td style="text-align:left"><a href="https://martinfowler.com/eaaCatalog/">https://martinfowler.com/eaaCatalog/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Blog React</td>
-      <td style="text-align:left"><a href="https://blog.stackblitz.com/">https://blog.stackblitz.com/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Prisma and tests</td>
-      <td style="text-align:left"><a href="https://dev.to/eddeee888/how-to-write-tests-for-prisma-with-docker-and-jest-593i">https://dev.to/eddeee888/how-to-write-tests-for-prisma-with-docker-and-jest-593i</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Javascript concepts</td>
-      <td style="text-align:left"><a href="https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/">https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Javascript hight order functions</td>
-      <td style="text-align:left">
-        <p><a href="https://www.youtube.com/watch?v=DlFOe-E1m-8">https://www.youtube.com/watch?v=DlFOe-E1m-8</a>
-        </p>
-        <p><a href="https://www.youtube.com/watch?v=H4awPsyugS0">https://www.youtube.com/watch?v=H4awPsyugS0</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Github guides</td>
-      <td style="text-align:left"><a href="https://guides.github.com/">https://guides.github.com/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Testes API Rest Videos</td>
-      <td style="text-align:left"><a href="https://www.youtube.com/watch?app=desktop&amp;v=VqVQ7vHY32o&amp;list=PLf8x7B3nFTl17WeEVj405tHlstiq1kNBX&amp;index=1">https://www.youtube.com/watch?app=desktop&amp;v=VqVQ7vHY32o&amp;list=PLf8x7B3nFTl17WeEVj405tHlstiq1kNBX&amp;index=1</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Site to learning some things</td>
-      <td style="text-align:left"><a href="https://egghead.io/">https://egghead.io/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Google Cloud Run</td>
-      <td style="text-align:left"><a href="https://www.qwiklabs.com/focuses/5162?locale=pt_BR&amp;parent=catalog">https://www.qwiklabs.com/focuses/5162?locale=pt_BR&amp;parent=catalog</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Meetup GCP</td>
-      <td style="text-align:left"><a href="https://gdg.community.dev/events/details/google-gdg-cuiaba-presents-meetup-containers-no-google-cloud-run-e-web-scrapping-com-puppeteer/">https://gdg.community.dev/events/details/google-gdg-cuiaba-presents-meetup-containers-no-google-cloud-run-e-web-scrapping-com-puppeteer/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">GCP Servidor de PDF</td>
-      <td style="text-align:left"><a href="https://www.qwiklabs.com/focuses/8390?locale=pt_BR&amp;parent=catalog">https://www.qwiklabs.com/focuses/8390?locale=pt_BR&amp;parent=catalog</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">React Snippets + explanations</td>
-      <td style="text-align:left"><a href="https://simonhoiberg.com/ebooks/65-code-snippets-with-explanations">https://simonhoiberg.com/ebooks/65-code-snippets-with-explanations</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">React Best Practices</td>
-      <td style="text-align:left"><a href="https://alexkondov.com/tao-of-react/">https://alexkondov.com/tao-of-react/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Use Memo vs Use Callback</td>
-      <td style="text-align:left"><a href="https://kentcdodds.com/blog/usememo-and-usecallback">https://kentcdodds.com/blog/usememo-and-usecallback</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">css to js</td>
-      <td style="text-align:left"><a href="https://css2js.dotenv.dev/">https://css2js.dotenv.dev/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">keycode info</td>
-      <td style="text-align:left"><a href="https://keycode.info/">https://keycode.info/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Size View Port</td>
-      <td style="text-align:left"><a href="https://screensizemap.com/">https://screensizemap.com/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Git Kraken</td>
-      <td style="text-align:left"><a href="https://www.gitkraken.com/">https://www.gitkraken.com/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Js Match Media</td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6836909477221023744/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6836909477221023744%29">https://www.linkedin.com/feed/update/urn:li:activity:6836909477221023744/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6836909477221023744%29</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">VS Code Comandos</td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/pulse/comandos-vs-code-para-agilizar-o-desenvolvimento-dellean-santos/?trackingId=VsW5ZqtTTp2CCiGQmtNVDQ%3D%3D">https://www.linkedin.com/pulse/comandos-vs-code-para-agilizar-o-desenvolvimento-dellean-santos/?trackingId=VsW5ZqtTTp2CCiGQmtNVDQ%3D%3D</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Microservies and Architecture</td>
-      <td style="text-align:left"><a href="https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2">https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">State em React</td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/pulse/state-em-reactjs-o-guia-definitivo-vinicius-dacal-lopes/?trackingId=Vi0rYM72TsqKbGLWafko3A%3D%3D">https://www.linkedin.com/pulse/state-em-reactjs-o-guia-definitivo-vinicius-dacal-lopes/?trackingId=Vi0rYM72TsqKbGLWafko3A%3D%3D</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Ports and Adapters</td>
-      <td style="text-align:left"><a href="https://chriskiehl.com/article/how-to-teach-ports-and-adapters">https://chriskiehl.com/article/how-to-teach-ports-and-adapters</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">React useHooks</td>
-      <td style="text-align:left"><a href="https://usehooks.com/">https://usehooks.com/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Testing Next Pages</td>
-      <td style="text-align:left"><a href="https://dev.to/maciekgrzybek/testing-next-js-pages-1jai">https://dev.to/maciekgrzybek/testing-next-js-pages-1jai</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">SQL Cheatshet</td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6830797312684523520/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6830797312684523520%29">https://www.linkedin.com/feed/update/urn:li:activity:6830797312684523520/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6830797312684523520%29</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Generator Background</td>
-      <td style="text-align:left"><a href="https://wickedbackgrounds.com/">https://wickedbackgrounds.com/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Inline Editor JS</td>
-      <td style="text-align:left"><a href="https://felixg.io/products/inline">https://felixg.io/products/inline</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Generate form</td>
-      <td style="text-align:left"><a href="https://trianglify.io/">https://trianglify.io/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">UI Patterns</td>
-      <td style="text-align:left"><a href="https://designvault.io/">https://designvault.io/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Referencia de Design</td>
-      <td style="text-align:left"><a href="https://designvault.io/">https://designvault.io/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Boxicons</td>
-      <td style="text-align:left"><a href="https://boxicons.com/">https://boxicons.com/</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Ilustrations</td>
-      <td style="text-align:left"><a href="https://www.pixeltrue.com/packs">https://www.pixeltrue.com/packs</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">React Query State Management</td>
-      <td style="text-align:left"><a href="https://tkdodo.eu/blog/react-query-as-a-state-manager/?">https://tkdodo.eu/blog/react-query-as-a-state-manager/?</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">VS Code Debug</td>
-      <td style="text-align:left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6828356909691650048/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6828356909691650048%29">https://www.linkedin.com/feed/update/urn:li:activity:6828356909691650048/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6828356909691650048%29</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
+| Subject                                                                                                                                                                   | Link                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Log Management                                                                                                                                                            | [https://logz.io/](https://logz.io)                                                                                                                                                                                                                                                                                                                                                                        |
+| <p></p><p>Node Js Multi-thread with <strong>worker_threads</strong></p>                                                                                                   | <p></p><p><a href="https://wanago.io/2019/05/06/node-js-typescript-12-worker-threads/">https://wanago.io/2019/05/06/node-js-typescript-12-worker-threads/</a></p><p><a href="https://medium.com/@Trott/using-worker-threads-in-node-js-part-2-a9405c72a6f0">https://medium.com/@Trott/using-worker-threads-in-node-js-part-2-a9405c72a6f0</a></p>                                                          |
+| <p></p><p>IOS notifications for PWAs and Web apps</p>                                                                                                                     | [https://github.com/kosmigramma/appleshouter](https://github.com/kosmigramma/appleshouter)                                                                                                                                                                                                                                                                                                                 |
+| <p></p><p>Make Jest faster</p>                                                                                                                                            | [https://ivantanev.com/make-jest-faster/](https://ivantanev.com/make-jest-faster/)                                                                                                                                                                                                                                                                                                                         |
+| <p></p><p>IntersectionObserver API</p>                                                                                                                                    | <p><a href="https://css-tricks.com/a-few-functional-uses-for-intersection-observer-to-know-when-an-element-is-in-view/">https://css-tricks.com/a-few-functional-uses-for-intersection-observer-to-know-when-an-element-is-in-view/</a></p><p><a href="https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver">https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver</a></p> |
+| <p></p><p>Chrome90 new dev tools flexbox</p>                                                                                                                              | [https://developer.chrome.com/blog/new-in-devtools-90/#flexbox](https://developer.chrome.com/blog/new-in-devtools-90/#flexbox)                                                                                                                                                                                                                                                                             |
+| <p></p><p>Plattaform for get feedback/ insight of product</p>                                                                                                             | [https://maze.co/](https://maze.co)                                                                                                                                                                                                                                                                                                                                                                        |
+| <p></p><p>Sequelize hooks</p>                                                                                                                                             | [https://sequelize.org/master/manual/hooks.html](https://sequelize.org/master/manual/hooks.html)                                                                                                                                                                                                                                                                                                           |
+| <p></p><p>Figjam colaborative whiteboard of Figma</p>                                                                                                                     | [https://www.figma.com/figjam/](https://www.figma.com/figjam/)                                                                                                                                                                                                                                                                                                                                             |
+| <p></p><p>Video Calling space for multiple people separate conversations</p>                                                                                              | [https://gather.town/](https://gather.town)                                                                                                                                                                                                                                                                                                                                                                |
+| <p></p><p>Typescript Documentation lib</p>                                                                                                                                | [https://github.com/TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)                                                                                                                                                                                                                                                                                                                             |
+| <p></p><p>Unit of Work Typescript example</p>                                                                                                                             | [https://jideowosakin.com/unit-of-work-pattern-in-typescript/](https://jideowosakin.com/unit-of-work-pattern-in-typescript/)                                                                                                                                                                                                                                                                               |
+| <p></p><p>Generic Repository Pattern</p>                                                                                                                                  | [https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e](https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e)                                                                                                                                                                                                                 |
+| <p></p><p>Cypress component test Runner</p>                                                                                                                               | [https://cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner](https://cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner)                                                                                                                                                                                                                                       |
+| <p></p><p>Temporal - proposal of native date api for javascript</p><p></p>                                                                                                | [https://tc39.es/proposal-temporal/docs/](https://tc39.es/proposal-temporal/docs/)                                                                                                                                                                                                                                                                                                                         |
+| <p></p><p>Domain Drive Design (DDD) Functional Languages</p>                                                                                                              | <p></p><p><a href="https://naveennegi.medium.com/thoughts-on-domain-driven-design-in-functional-languages-83c43ec518d">https://naveennegi.medium.com/thoughts-on-domain-driven-design-in-functional-languages-83c43ec518d</a><br></p><p><a href="https://www.youtube.com/watch?v=zhA-2JQ8XKc">https://www.youtube.com/watch?v=zhA-2JQ8XKc</a></p>                                                          |
+| <p></p><p>Diagnose NodeJs with ClinicJs</p>                                                                                                                               | [https://clinicjs.org/](https://clinicjs.org)                                                                                                                                                                                                                                                                                                                                                              |
+| <p></p><p>React Clean Code article</p>                                                                                                                                    | [https://dev.to/thawkin3/react-clean-code-simple-ways-to-write-better-and-cleaner-code-2loa](https://dev.to/thawkin3/react-clean-code-simple-ways-to-write-better-and-cleaner-code-2loa)                                                                                                                                                                                                                   |
+| <p></p><p>CI/CD for React Native</p>                                                                                                                                      | [https://codemagic.io/start/](https://codemagic.io/start/)                                                                                                                                                                                                                                                                                                                                                 |
+| <p></p><p>Top level await - V8</p>                                                                                                                                        | [https://v8.dev/features/top-level-await](https://v8.dev/features/top-level-await)                                                                                                                                                                                                                                                                                                                         |
+| <p></p><p>UI Icons 100% pure css/svg</p>                                                                                                                                  | [https://css.gg/](https://css.gg)                                                                                                                                                                                                                                                                                                                                                                          |
+| <p></p><p>List of resources for Chief Tech Officers</p>                                                                                                                   | [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)                                                                                                                                                                                                                                                                                                                             |
+| <p></p><p>Simple screenshot software</p>                                                                                                                                  | [https://flameshot.org/](https://flameshot.org)                                                                                                                                                                                                                                                                                                                                                            |
+| Documentation                                                                                                                                                             | <p><a href="https://docusaurus.io">https://docusaurus.io/</a></p><p><a href="https://github.com/Redocly/redoc">https://github.com/Redocly/redoc</a></p>                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Hook to get frequent data React                                                                                                                                           | [https://zach.codes/throttle-frequent-data-in-react/](https://zach.codes/throttle-frequent-data-in-react/)                                                                                                                                                                                                                                                                                                 |
+| Tests E2E                                                                                                                                                                 | <p><a href="https://playwright.dev">https://playwright.dev/</a></p><p><a href="https://www.cypress.io">https://www.cypress.io/</a></p>                                                                                                                                                                                                                                                                     |
+| Autocomplete                                                                                                                                                              | [https://github.com/algolia/autocomplete](https://github.com/algolia/autocomplete)                                                                                                                                                                                                                                                                                                                         |
+| Test Mock                                                                                                                                                                 | <p><a href="https://mswjs.io">https://mswjs.io/</a></p><p><a href="https://www.npmjs.com/package/json-server">https://www.npmjs.com/package/json-server</a></p><p><a href="https://github.com/ctimmerm/axios-mock-adapter">https://github.com/ctimmerm/axios-mock-adapter</a></p>                                                                                                                          |
+| Documentation                                                                                                                                                             | [https://nextra.vercel.app/](https://nextra.vercel.app)                                                                                                                                                                                                                                                                                                                                                    |
+| AWS Curse                                                                                                                                                                 | [https://www.aws.training/Details/Curriculum?id=45358](https://www.aws.training/Details/Curriculum?id=45358)                                                                                                                                                                                                                                                                                               |
+| React Testing Playground                                                                                                                                                  | [https://testing-playground.com/](https://testing-playground.com)                                                                                                                                                                                                                                                                                                                                          |
+| Animations Javascrippt                                                                                                                                                    | [https://www.linkedin.com/posts/iuricode\_sites-de-anima%C3%A7%C3%B5es-javascript-activity-6796074025463492608-R9Jk](https://www.linkedin.com/posts/iuricode\_sites-de-anima%C3%A7%C3%B5es-javascript-activity-6796074025463492608-R9Jk)                                                                                                                                                                   |
+| Dark Mode with filters                                                                                                                                                    | [https://www.linkedin.com/posts/slobodan-gajic\_shorts-csstips-frontend-activity-6795970023723724800-sXT9](https://www.linkedin.com/posts/slobodan-gajic\_shorts-csstips-frontend-activity-6795970023723724800-sXT9)                                                                                                                                                                                       |
+| Pakacge import costs                                                                                                                                                      | [https://bundlephobia.com](https://bundlephobia.com)                                                                                                                                                                                                                                                                                                                                                       |
+| design                                                                                                                                                                    | <p><a href="https://mobbin.design">https://mobbin.design/</a></p><p><a href="https://screenlane.com/?ref=uimovement">https://screenlane.com/?ref=uimovement</a></p><p><a href="https://dribbble.com">https://dribbble.com/</a></p><p></p>                                                                                                                                                                  |
+| Flows                                                                                                                                                                     | [https://pageflows.com/?ref=screenlane](https://pageflows.com/?ref=screenlane)                                                                                                                                                                                                                                                                                                                             |
+| Database for Dev                                                                                                                                                          | [https://www.planetscale.com/](https://www.planetscale.com)                                                                                                                                                                                                                                                                                                                                                |
+| Alternative of Firebase                                                                                                                                                   | Supabase                                                                                                                                                                                                                                                                                                                                                                                                   |
+| One time Code HTML                                                                                                                                                        | [https://www.creativejuiz.fr/blog/en/tutorials/one-time-code-input-sms-code-keyboard-suggestion-ios-android](https://www.creativejuiz.fr/blog/en/tutorials/one-time-code-input-sms-code-keyboard-suggestion-ios-android)                                                                                                                                                                                   |
+| Hook user Online Status                                                                                                                                                   | [https://levelup.gitconnected.com/useonlinestatus-a-react-hook-to-know-when-your-app-is-offline-2d06e4e536a](https://levelup.gitconnected.com/useonlinestatus-a-react-hook-to-know-when-your-app-is-offline-2d06e4e536a)                                                                                                                                                                                   |
+| js help functions                                                                                                                                                         | [https://vanillajstoolkit.com/helpers/](https://vanillajstoolkit.com/helpers/)                                                                                                                                                                                                                                                                                                                             |
+| Merge Request good practices                                                                                                                                              | [https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)                                                                                                                                                                                                                                     |
+| CSS generators                                                                                                                                                            | [https://markodenic.com/css-generators/](https://markodenic.com/css-generators/)                                                                                                                                                                                                                                                                                                                           |
+| Erros comuns com react library testing                                                                                                                                    | [https://giovanisleite.dev/erros-comuns-com-react-testing-library](https://giovanisleite.dev/erros-comuns-com-react-testing-library)                                                                                                                                                                                                                                                                       |
+| Patterns                                                                                                                                                                  | [https://martinfowler.com/eaaCatalog/](https://martinfowler.com/eaaCatalog/)                                                                                                                                                                                                                                                                                                                               |
+| Blog React                                                                                                                                                                | [https://blog.stackblitz.com/](https://blog.stackblitz.com)                                                                                                                                                                                                                                                                                                                                                |
+| Prisma and tests                                                                                                                                                          | [https://dev.to/eddeee888/how-to-write-tests-for-prisma-with-docker-and-jest-593i](https://dev.to/eddeee888/how-to-write-tests-for-prisma-with-docker-and-jest-593i)                                                                                                                                                                                                                                       |
+| Javascript concepts                                                                                                                                                       | [https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/)                                                                                                                                                                                                                                                         |
+| Javascript hight order functions                                                                                                                                          | <p><a href="https://www.youtube.com/watch?v=DlFOe-E1m-8">https://www.youtube.com/watch?v=DlFOe-E1m-8</a></p><p><a href="https://www.youtube.com/watch?v=H4awPsyugS0">https://www.youtube.com/watch?v=H4awPsyugS0</a></p>                                                                                                                                                                                   |
+| Github guides                                                                                                                                                             | [https://guides.github.com/](https://guides.github.com)                                                                                                                                                                                                                                                                                                                                                    |
+| Testes API Rest Videos                                                                                                                                                    | [https://www.youtube.com/watch?app=desktop\&v=VqVQ7vHY32o\&list=PLf8x7B3nFTl17WeEVj405tHlstiq1kNBX\&index=1](https://www.youtube.com/watch?app=desktop\&v=VqVQ7vHY32o\&list=PLf8x7B3nFTl17WeEVj405tHlstiq1kNBX\&index=1)                                                                                                                                                                                   |
+| Site to learning some things                                                                                                                                              | [https://egghead.io/](https://egghead.io)                                                                                                                                                                                                                                                                                                                                                                  |
+| Google Cloud Run                                                                                                                                                          | [https://www.qwiklabs.com/focuses/5162?locale=pt\_BR\&parent=catalog](https://www.qwiklabs.com/focuses/5162?locale=pt\_BR\&parent=catalog)                                                                                                                                                                                                                                                                 |
+| Meetup GCP                                                                                                                                                                | [https://gdg.community.dev/events/details/google-gdg-cuiaba-presents-meetup-containers-no-google-cloud-run-e-web-scrapping-com-puppeteer/](https://gdg.community.dev/events/details/google-gdg-cuiaba-presents-meetup-containers-no-google-cloud-run-e-web-scrapping-com-puppeteer/)                                                                                                                       |
+| GCP Servidor de PDF                                                                                                                                                       | [https://www.qwiklabs.com/focuses/8390?locale=pt\_BR\&parent=catalog](https://www.qwiklabs.com/focuses/8390?locale=pt\_BR\&parent=catalog)                                                                                                                                                                                                                                                                 |
+| React Snippets + explanations                                                                                                                                             | [https://simonhoiberg.com/ebooks/65-code-snippets-with-explanations](https://simonhoiberg.com/ebooks/65-code-snippets-with-explanations)                                                                                                                                                                                                                                                                   |
+| React Best Practices                                                                                                                                                      | [https://alexkondov.com/tao-of-react/](https://alexkondov.com/tao-of-react/)                                                                                                                                                                                                                                                                                                                               |
+| Use Memo vs Use Callback                                                                                                                                                  | [https://kentcdodds.com/blog/usememo-and-usecallback](https://kentcdodds.com/blog/usememo-and-usecallback)                                                                                                                                                                                                                                                                                                 |
+| css to js                                                                                                                                                                 | [https://css2js.dotenv.dev/](https://css2js.dotenv.dev)                                                                                                                                                                                                                                                                                                                                                    |
+| keycode info                                                                                                                                                              | [https://keycode.info/](https://keycode.info)                                                                                                                                                                                                                                                                                                                                                              |
+| Size View Port                                                                                                                                                            | [https://screensizemap.com/](https://screensizemap.com)                                                                                                                                                                                                                                                                                                                                                    |
+| Git Kraken                                                                                                                                                                | [https://www.gitkraken.com/](https://www.gitkraken.com)                                                                                                                                                                                                                                                                                                                                                    |
+| Js Match Media                                                                                                                                                            | [https://www.linkedin.com/feed/update/urn:li:activity:6836909477221023744/?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6836909477221023744%29](https://www.linkedin.com/feed/update/urn:li:activity:6836909477221023744/?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6836909477221023744%29)                                                   |
+| VS Code Comandos                                                                                                                                                          | [https://www.linkedin.com/pulse/comandos-vs-code-para-agilizar-o-desenvolvimento-dellean-santos/?trackingId=VsW5ZqtTTp2CCiGQmtNVDQ%3D%3D](https://www.linkedin.com/pulse/comandos-vs-code-para-agilizar-o-desenvolvimento-dellean-santos/?trackingId=VsW5ZqtTTp2CCiGQmtNVDQ%3D%3D)                                                                                                                         |
+| Microservies and Architecture                                                                                                                                             | [https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)                                                                                             |
+| State em React                                                                                                                                                            | [https://www.linkedin.com/pulse/state-em-reactjs-o-guia-definitivo-vinicius-dacal-lopes/?trackingId=Vi0rYM72TsqKbGLWafko3A%3D%3D](https://www.linkedin.com/pulse/state-em-reactjs-o-guia-definitivo-vinicius-dacal-lopes/?trackingId=Vi0rYM72TsqKbGLWafko3A%3D%3D)                                                                                                                                         |
+| Ports and Adapters                                                                                                                                                        | [https://chriskiehl.com/article/how-to-teach-ports-and-adapters](https://chriskiehl.com/article/how-to-teach-ports-and-adapters)                                                                                                                                                                                                                                                                           |
+| React useHooks                                                                                                                                                            | [https://usehooks.com/](https://usehooks.com)                                                                                                                                                                                                                                                                                                                                                              |
+| Testing Next Pages                                                                                                                                                        | [https://dev.to/maciekgrzybek/testing-next-js-pages-1jai](https://dev.to/maciekgrzybek/testing-next-js-pages-1jai)                                                                                                                                                                                                                                                                                         |
+| SQL Cheatshet                                                                                                                                                             | [https://www.linkedin.com/feed/update/urn:li:activity:6830797312684523520/?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6830797312684523520%29](https://www.linkedin.com/feed/update/urn:li:activity:6830797312684523520/?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6830797312684523520%29)                                                   |
+| Generator Background                                                                                                                                                      | [https://wickedbackgrounds.com/](https://wickedbackgrounds.com)                                                                                                                                                                                                                                                                                                                                            |
+| Inline Editor JS                                                                                                                                                          | [https://felixg.io/products/inline](https://felixg.io/products/inline)                                                                                                                                                                                                                                                                                                                                     |
+| Generate form                                                                                                                                                             | [https://trianglify.io/](https://trianglify.io)                                                                                                                                                                                                                                                                                                                                                            |
+| UI Patterns                                                                                                                                                               | [https://designvault.io/](https://designvault.io)                                                                                                                                                                                                                                                                                                                                                          |
+| Referencia de Design                                                                                                                                                      | [https://designvault.io/](https://designvault.io)                                                                                                                                                                                                                                                                                                                                                          |
+| Boxicons                                                                                                                                                                  | [https://boxicons.com/](https://boxicons.com)                                                                                                                                                                                                                                                                                                                                                              |
+| Ilustrations                                                                                                                                                              | [https://www.pixeltrue.com/packs](https://www.pixeltrue.com/packs)                                                                                                                                                                                                                                                                                                                                         |
+| React Query State Management                                                                                                                                              | [https://tkdodo.eu/blog/react-query-as-a-state-manager/?](https://tkdodo.eu/blog/react-query-as-a-state-manager/?)                                                                                                                                                                                                                                                                                         |
+| VS Code Debug                                                                                                                                                             | [https://www.linkedin.com/feed/update/urn:li:activity:6828356909691650048/?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6828356909691650048%29](https://www.linkedin.com/feed/update/urn:li:activity:6828356909691650048/?updateEntityUrn=urn%3Ali%3Afs\_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6828356909691650048%29)                                                   |
+| Microservices                                                                                                                                                             | [https://blog.bitsrc.io/my-favorite-microservice-design-patterns-for-node-js-fe048c635d83](https://blog.bitsrc.io/my-favorite-microservice-design-patterns-for-node-js-fe048c635d83)                                                                                                                                                                                                                       |
+| Typescript cheatsheet                                                                                                                                                     | react-typescript-cheatsheet.netlify.app                                                                                                                                                                                                                                                                                                                                                                    |
+| typescript DDD                                                                                                                                                            | [Khalil Stemmler \| Advanced TypeScript & Node.js best practices for large-scale applications \| Khalil Stemmler](https://khalilstemmler.com)                                                                                                                                                                                                                                                              |
+| Node create linters                                                                                                                                                       | [https://www.npmjs.com/package/poetic](https://www.npmjs.com/package/poetic)                                                                                                                                                                                                                                                                                                                               |
+| Command bar Javascript                                                                                                                                                    | [https://kbar.vercel.app/](https://kbar.vercel.app)                                                                                                                                                                                                                                                                                                                                                        |
+| graphQl generator                                                                                                                                                         | [https://www.graphql-code-generator.com/docs/getting-started/installation](https://www.graphql-code-generator.com/docs/getting-started/installation)                                                                                                                                                                                                                                                       |
+| delete node modules                                                                                                                                                       | [https://www.npmjs.com/package/npkill](https://www.npmjs.com/package/npkill)                                                                                                                                                                                                                                                                                                                               |
+| [**How to use local Node packages as project dependencies \| Viget**](https://www.viget.com/articles/how-to-use-local-unpublished-node-packages-as-project-dependencies/) | [How to use local Node packages as project dependencies \| Viget](https://www.viget.com/articles/how-to-use-local-unpublished-node-packages-as-project-dependencies/)                                                                                                                                                                                                                                      |
+| Raycast                                                                                                                                                                   | [https://www.raycast.com/](https://www.raycast.com)                                                                                                                                                                                                                                                                                                                                                        |
+| Good comparative with builders ( Esbuild / Swc )                                                                                                                          | [https://github.com/jherr/esbuild-swc-worth-your-time/tree/main/web-rollup-pathalogic/starter-esbuild](https://github.com/jherr/esbuild-swc-worth-your-time/tree/main/web-rollup-pathalogic/starter-esbuild)                                                                                                                                                                                               |
+| Wireframes                                                                                                                                                                | [ https://whimsical.com/](https://whimsical.com)                                                                                                                                                                                                                                                                                                                                                           |
+| screen recorder                                                                                                                                                           | [https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)                                                                                                                                                                                               |
+| chrome commands                                                                                                                                                           | [https://chrome.google.com/webstore/detail/omni/mapjgeachilmcbbokkgcbgpbakaaeehi?hl=en\&authuser=0](https://chrome.google.com/webstore/detail/omni/mapjgeachilmcbbokkgcbgpbakaaeehi?hl=en\&authuser=0)                                                                                                                                                                                                     |
+| GraphQl server side caching                                                                                                                                               | [https://www.apollographql.com/docs/apollo-server/performance/caching/#in-your-schema-static](https://www.apollographql.com/docs/apollo-server/performance/caching/#in-your-schema-static)                                                                                                                                                                                                                 |
+| typescript greate videos                                                                                                                                                  | [https://www.youtube.com/playlist?list=PLNqp92\_EXZBJYFrpEzdO2EapvU0GOJ09n](https://www.youtube.com/playlist?list=PLNqp92\_EXZBJYFrpEzdO2EapvU0GOJ09n)                                                                                                                                                                                                                                                     |
+| Documentation                                                                                                                                                             | [https://documentation.divio.com/introduction/](https://documentation.divio.com/introduction/)                                                                                                                                                                                                                                                                                                             |
+| Design Guides                                                                                                                                                             | [https://www.supernova.io/](https://www.supernova.io)                                                                                                                                                                                                                                                                                                                                                      |
+| monorepo guides                                                                                                                                                           | [https://www.toptal.com/front-end/guide-to-monorepos](https://www.toptal.com/front-end/guide-to-monorepos)                                                                                                                                                                                                                                                                                                 |
+| Typescrip Json                                                                                                                                                            | [https://github.com/sinclairzx81/typebox](https://github.com/sinclairzx81/typebox)                                                                                                                                                                                                                                                                                                                         |
+| RTK QUery and React Query                                                                                                                                                 | [ https://www.youtube.com/watch?v=LDS1ll93P-s](https://www.youtube.com/watch?v=LDS1ll93P-s)                                                                                                                                                                                                                                                                                                                |
+| Share react components                                                                                                                                                    | [https://bit.dev/](https://bit.dev)                                                                                                                                                                                                                                                                                                                                                                        |
+| react ant patterns                                                                                                                                                        | [https://blog.bitsrc.io/react-the-wrong-way-4-anti-patterns-to-avoid-2d68a28aac00](https://blog.bitsrc.io/react-the-wrong-way-4-anti-patterns-to-avoid-2d68a28aac00)                                                                                                                                                                                                                                       |
+| Design Guide Frontend                                                                                                                                                     | [https://dev.to/hellonehha/system-design-guide-for-front-end-developers-5fkl](https://dev.to/hellonehha/system-design-guide-for-front-end-developers-5fkl)                                                                                                                                                                                                                                                 |
+| Database for developers                                                                                                                                                   | [https://planetscale.com/](https://planetscale.com)                                                                                                                                                                                                                                                                                                                                                        |
+| Turbo Repo                                                                                                                                                                | [https://www.youtube.com/watch?v=YX5yoApjI3M](https://www.youtube.com/watch?v=YX5yoApjI3M)                                                                                                                                                                                                                                                                                                                 |
+| GraphQl Wunder                                                                                                                                                            | <p><a href="https://wundergraph.com">https://wundergraph.com/<br></a></p>                                                                                                                                                                                                                                                                                                                                  |
+| Github statistics                                                                                                                                                         | [https://wrapped.run/](https://wrapped.run)                                                                                                                                                                                                                                                                                                                                                                |
+| [Auth0: Secure access for everyone. But not just anyone.](https://auth0.com)                                                                                              | [https://auth0.com/](https://auth0.com)                                                                                                                                                                                                                                                                                                                                                                    |
+| Mircoservices                                                                                                                                                             | [https://www.xenonstack.com/blog/eda-for-cloud-native-kubernetes](https://www.xenonstack.com/blog/eda-for-cloud-native-kubernetes)                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 
 
